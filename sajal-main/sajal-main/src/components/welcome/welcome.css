@@ -1,0 +1,48 @@
+.text{
+    text-align: center;
+    font-size: 40px;
+    content: "\25bc";
+
+}
+
+.san{
+    color: blueviolet;
+    display: inline;
+    text-align: center;
+    font-weight: bold;
+    border: none;
+    background-color: white;
+}
+.box{
+    text-align: center;
+    height: auto;
+    margin-bottom:10%;
+}
+.button{
+    text-align: center;
+    padding-bottom: 4%;
+}
+.cities{
+    padding-top:24px ;
+    padding-left: 5px;
+    margin: .7%;
+    width: 170px;
+    height :110px;
+    text-align: left;
+    border:2px solid black;
+    border-radius: 2px;
+    font-weight: bold;
+    color: blueviolet;
+}
+.container{
+    display: flex;
+    width:100%;
+    height: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.subhead{
+    color: black;
+    font-weight: normal;
+}
