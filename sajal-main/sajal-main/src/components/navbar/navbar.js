@@ -6,14 +6,6 @@ export default function Navbar() {
     <nav id="menu">
       <input type="checkbox" id="responsive-menu" /><label></label>
       <img className='logo' src={require('./logo.jpeg')}/>
-            {/* <img style="" class="sl-logo" src="@/assets/sl-logo.png" alt="" /><img
-          style=""
-          class="sl-text"
-          src="@/assets/sl-text.png"
-          rgba(124,64,154,255)
-          rgba(211,31,41,255)
-
-      /> */}
       <div className='button-div'>
       <button className='navbar-button'>BOOK</button>
       <button className='navbar-button'>CHECK IN</button>
